@@ -1,0 +1,15 @@
+{
+  "name": "seolit-nodejs",
+  "version": "1.0.0",
+  "description": "1. На машине должен быть установлен Node.js\r 2. Запускать командой \"node app.js\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "info@seolit.ru",
+  "license": "MIT",
+  "dependencies": {
+    "form-data": "*",
+    "moment": "*"
+  }
+}
